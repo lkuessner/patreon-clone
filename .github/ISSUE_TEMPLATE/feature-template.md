@@ -1,5 +1,5 @@
 ---
-name: Custom issue template
+name: Feature template
 about: Describe this issue's purpose here.
 title: "[FEATURE]"
 labels: ''
