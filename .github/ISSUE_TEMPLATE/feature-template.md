@@ -1,6 +1,6 @@
 ---
 name: Feature template
-about: Describe this feature'ss purpose here.
+about: Describe this feature's purpose here.
 title: "feat:"
 labels: ''
 assignees: ''
